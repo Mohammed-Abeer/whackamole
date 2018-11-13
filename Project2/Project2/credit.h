@@ -2,6 +2,7 @@
 
 void creditf(char men[])
 {iShowBMP(0,0,men);
+iShowBMP(1050, 650, "images\\back.bmp");
 	FILE *fcredit;
 	fcredit = fopen("focs.txt", "r");
 	char o[300];
