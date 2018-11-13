@@ -1,6 +1,7 @@
 
 void howtoplay1(char men[])
 {iShowBMP(0,0,men);
+ iShowBMP(1050, 650, "images\\back.bmp");
 
 	FILE *fplay;
 	fplay = fopen("docs.txt", "r");
