@@ -1,0 +1,6 @@
+            HOW TO PLAY
+1. There are holes from where moths will come and you have to hit them with hammer.
+2. Hitting the moths in right time will give you 1 point. There is 120 seconds of play time.
+3. There are three levels according to their respective difficulties. 
+4. In case of multiplayer, one opponent will use mouse and another keyboard. Together beat the moths.
+5. Hitting evil moth will take your life.
